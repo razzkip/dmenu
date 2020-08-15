@@ -21,3 +21,6 @@ static unsigned int lines      = 15;
  * for example: " /?\"&[]"
  */
 static const char worddelimiters[] = " ";
+
+/* size of the window border */
+static const unsigned int border_width = 5;
